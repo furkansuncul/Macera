@@ -24,7 +24,7 @@ public class Oyun {
 		case 1: {
 			hasar=7;
 			sağlık=15;
-			para=10;
+			para=15;
 			karakter="Samuray";
 			samurayozel=0;
 			samurayozel++;
@@ -42,7 +42,7 @@ public class Oyun {
 		case 3: {
 			hasar=5;
 			sağlık=20;
-			para=10;
+			para=15;
 			karakter="Şovalye";
 			şovalyeozel=0;
 			şovalyeozel++;
